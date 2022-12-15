@@ -1,0 +1,16 @@
+body{
+    background-image:url(imagenes/L.jpg);
+    background-size:cover;
+}
+h1{
+    color:rgb(0, 0, 0);
+    font-size:xx-large;
+    text-align: center;
+    font-family: Luckiest Guy;
+
+}
+#intento{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 41%;
+    margin-top: 20%;
+}
